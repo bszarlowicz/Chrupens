@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science student | Cracow University of Technology
 ----------------------------------------------------------
 
-Second-year computer science student. Four years of self-education in programming. Seeking entry-level opportunities, open to new experiences and tasks. Currently I am focused on designing small applications and websites for self-development purposes with HTML/CSS and JavaScript. Moreover, I gain knowledge related to algorithms and data structures and I have completed Linux course (Red Hat System Administration I). I am eager to acquire new skills and learning possibilities :)
+Third-year computer science student. Four years of self-education in programming. Seeking entry-level opportunities, open to new experiences and tasks. Currently I am focused on designing small applications and websites for self-development purposes with HTML/CSS and JavaScript. Moreover, I gain knowledge related to algorithms and data structures and I have completed Linux course (Red Hat System Administration I). I am eager to acquire new skills and learning possibilities :)
 
 * 🌍  I'm based in Cracow
 * ✉️  You can contact me at [b.szarlowicz@gmail.com](mailto:b.szarlowicz@gmail.com)
